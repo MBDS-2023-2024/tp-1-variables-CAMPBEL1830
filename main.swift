@@ -1,4 +1,4 @@
-// TP2
+// TP1
 // Création du tableau
 
 var moyensDeTransport = ["bateau", "voiture", "vélo", "avion", "bus", "train", "moto"]
@@ -50,8 +50,7 @@ extension Collection {
 
 
 
-//T
-
+//TP2
 
 
 
